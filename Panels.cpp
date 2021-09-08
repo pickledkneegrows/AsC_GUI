@@ -8,7 +8,7 @@
 #include "Styles.h"
 #include "Misc.h"
 #include "CMat.h"
-
+// oh my god
 CScreenSize gScreenSize;
 //===================================================================================
 void __fastcall Hooked_PaintTraverse( PVOID pPanels, int edx, unsigned int vguiPanel, bool forceRepaint, bool allowForce)
