@@ -1,17 +1,16 @@
-# Project NaCl
-
+# ASC_GUI
 ## VAC Status
 
 The source is currently DETECTED but with junk code and vmprotect you should be good to go! :)
 
 ## Important
 
-Project NaCl is a pasta only project.
+ASC_GUI is a pasta only project.
 The projects development is off and on.
 
 ## Overview
 
-NaCl is a potassium edit with new features such as
+ASC_GUI is a NACL edit with new features such as
 
 * New FOV Based Aimbot
 * New (More) Accurate Triggerbot
@@ -27,6 +26,7 @@ This cheat works on multiple source games, including
 * Half-Life 2: Deathmatch
 
 ## Credits
+* Waxxy (for creating the nacl)
 * outizm - Aimbot Improvements
 * Stick Supreme - Potassium Developer
 * gir489 - Darkstorm Base Developer
@@ -35,4 +35,5 @@ This cheat works on multiple source games, including
 * Bux - Helped Me With Getting FSN Setup, Helped With A Lot of Other Features.
 * Dumpster-Fire Developers - Auto-Airblast Code
 * cademtz - Sparkly Rewrite UI & DME/Chams
-
+* nitro devs who taught me how to code
+* rijin lads for pushing me on and helping me
