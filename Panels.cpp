@@ -51,7 +51,7 @@ void __fastcall Hooked_PaintTraverse( PVOID pPanels, int edx, unsigned int vguiP
 			    return;
 
 			if (!gInts.Engine->IsInGame() && !gMenu.enabled)
-				style->WaterMark("Project NaCl", 20, 20);
+				style->WaterMark("ASC_GUI", 20, 20);
 
 			gInts.Panels->SetTopmostPopup(vguiFocusOverlayPanel, true);
 
