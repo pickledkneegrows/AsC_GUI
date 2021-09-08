@@ -5,7 +5,7 @@
 #include "ESP.h"
 #include "Misc.h"
 #include "HvH.h"
-
+// ooooooooo its a paste
 Menu gMenu;
 CKey gKey;
 
@@ -319,7 +319,7 @@ void Menu::Draw()
 	if (!enabled)
 		return;
 
-	style->WaterMark("Project NaCl", 20, 20);
+	style->WaterMark("Asc_GUI", 20, 20);
 
 #pragma region Handle input
 	static bool dragging = false;
@@ -339,7 +339,7 @@ void Menu::Draw()
 
 #pragma region Main window
 	// Topbar + outline
-	int topbar = style->TopBar(pos.x, pos.y, scale.x, "Project NaCl");
+	int topbar = style->TopBar(pos.x, pos.y, scale.x, "ASC_GUI");
 	gDraw.OutlineRect(pos.x - 1, pos.y - 1, scale.x + 2, scale.y + topbar + 2, SColor(0));
 
 	if (pos.x < 0)
