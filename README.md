@@ -35,5 +35,4 @@ This cheat works on multiple source games, including
 * Bux - Helped Me With Getting FSN Setup, Helped With A Lot of Other Features.
 * Dumpster-Fire Developers - Auto-Airblast Code
 * cademtz - Sparkly Rewrite UI & DME/Chams
-* nitro devs who taught me how to code
 * rijin lads for pushing me on and helping me
